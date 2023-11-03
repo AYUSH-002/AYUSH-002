@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
 <h3 align="center"> Competitive Coder | Passionate about Data Engineering | Software Developer</h3>
 <br>
-<img align="right" alt="Coding" width="500" src="https://unsplash.com/photos/colorful-software-or-web-code-on-a-computer-monitor-Skf7HxARcoc">
+<img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/technology.jpg">
 
 ## 👨🏻‍💻 About Me 
 
