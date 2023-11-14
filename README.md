@@ -11,7 +11,7 @@
 
 - **Newbie** @codeforces
 
-- Solved 700+ Problems on Leetcode
+- Solved 250+ Problems on Leetcode
 
 - 📫 You can reach me at **022003ayush@gmail.com**
 
