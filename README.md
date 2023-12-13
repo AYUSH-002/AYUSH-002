@@ -105,6 +105,8 @@
 
 - **The Sparks Foundation** (October 2023 - November 2023)
   - FullStack Developer (Remote)
+**Indian Society for Technical Education(VIT)** (March 2023 - Present)
+  - Core committee member
     <!-- - Developed a Bixby feature with Natural Language Processing (NLP) for users to instruct Bixby to store information and set task reminders. -->
     <!-- - Enhanced Bixby’s functionality, allowing it to retrieve and provide stored information upon user requests. -->
 
