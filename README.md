@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently exploring Big Data Technologies
 
-- **Newbie** @codeforces
+- **Newbie(1110)** @codeforces
 
-- Solved 250+ Problems on Leetcode
+- Solved 300+ Problems on Leetcode
 
 - 📫 You can reach me at **022003ayush@gmail.com**
 
@@ -97,7 +97,7 @@
 
 # 🏆 Achievements:
 
-- 🌟 Newbie Rating (972) on Codeforces
+- 🌟 Newbie Rating (1110) on Codeforces
 - 🌟 Solved 700+ problems on Data Structures and Algorithms.
 - 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2022-23.
 
@@ -116,7 +116,8 @@
 
 - **SPOTIFY-TOP50-ANALYSIS**
   - [GitHub Repository](https://github.com/AYUSH-002/SPOTIFY-TOP50-ANALYSIS)
-
+- **ListenUp**
+  - [GitHub Repository](https://github.com/AYUSH-002/Ethnus-Project)
 
 # 📊 GitHub Stats:
 
