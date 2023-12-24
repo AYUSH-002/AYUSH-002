@@ -98,7 +98,7 @@
 # 🏆 Achievements:
 
 - 🌟 Newbie Rating (1110) on Codeforces
-- 🌟 Solved 700+ problems on Data Structures and Algorithms.
+- 🌟 Solved 750+ problems on Data Structures and Algorithms.
 - 🌟 VIT Academic Merit Scholarship: Received the VIT Academic Merit Scholarship for outstanding academic achievements in 2022-23.
 
 ## 💼 Experience 
