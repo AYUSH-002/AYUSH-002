@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
-<h3 align="center"> Competitive Coder | Passionate about Data Engineering | Software Developer</h3>
+<h3 align="center"> Competitive Coder | Passionate about Data Engineering | Full Stack Developer</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/technology.jpg" style="margin-top: 50 px;">
 
@@ -11,7 +11,7 @@
 
 - **Newbie(1110)** @codeforces
 
-- Solved 300+ Problems on Leetcode
+- Solved 500+ Problems on Leetcode
 
 - 📫 You can reach me at **022003ayush@gmail.com**
 
@@ -19,19 +19,29 @@
 
 ## 📄 Resume 
 
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://resume.io/r/KeTuZAfka)
+[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1pZFUJFXDrVvb5L3biPWw15oOBRdbKC6w/view)
 
 ## 📚 Education 
 
 - **Vellore Institute of Technology, Vellore** (2021-2025)
   - Bachelor of Technology - Computer Science and Engineering with specialization in Data Science
-  - CGPA: 9.30
+  - CGPA: 9.37
 
 ## 🌐 Accounts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-47212b26b/) 
 [![LeetCode](https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=222222&logo=LeetCode&logoColor=FFA116&label=)](https://leetcode.com/Ayush0208/) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Ayush0208)
+
+## 📈 Coding Profiles
+<span>
+<a href="https://codeforces.com/profile/Ayush0208">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Ayush0208&theme=github_dark&force_username=true&border_color=404040" alt="Ayush Sharma Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/Ayush0208/">
+<img height="316" src="https://leetcard.jacoblin.cool/Ayush0208?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/Ayush0208/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Ayush Sharma Leetcode Stats"/>
+</a>
+</span>
 
 # 💻 Technical Skills:
 
@@ -93,7 +103,7 @@
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org/)
+
 
 # 🏆 Achievements:
 
@@ -103,8 +113,12 @@
 
 ## 💼 Experience 
 
-- **The Sparks Foundation** (October 2023 - November 2023)
-  - FullStack Developer (Remote)
+- **MTX IT CONSULTING SERVICES Pvt. Ltd.** (February 2024 - May 2024)
+  - Salesforce Development Intern (Remote)
+    - Designed and deployed a comprehensive Salesforce-based recruitment solution, encompassing a robust data model and intuitive user interface.
+    - Implemented advanced data integrity measures and role-based security protocols to safeguard sensitive candidate information.
+    - Engineered automated workflows and custom reports, optimizing the hiring process and facilitating data-driven decision-making.
+    - [Completion Certificate](https://drive.google.com/file/d/1IvhMzDJMybjxypHbhqbxapDzbd1Gu69j/view)
 - **Indian Society for Technical Education(VIT)** (March 2023 - Present)
   - Core committee member
     <!-- - Developed a Bixby feature with Natural Language Processing (NLP) for users to instruct Bixby to store information and set task reminders. -->
