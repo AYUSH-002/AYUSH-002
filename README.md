@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
-<h3 align="center"> Competitive Coder | Passionate about Data Engineering | Full Stack Developer</h3>
+<h3 align="center"> Software Engineer at JPMorganChase & Co</h3>
 <br>
 <img align="right" alt="Coding" width="500" src="https://appsmaventech.com/images/blog/technology.jpg" style="margin-top: 50 px;">
 
